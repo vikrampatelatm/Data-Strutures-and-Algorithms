@@ -1,3 +1,4 @@
+//TO find there is an duplicate element in array
 public class duplicate
 {    
      public static boolean check(int a)
